@@ -1,6 +1,7 @@
-# Introducción a la programación
+# Daniel Fernandez
 
-<img src="ElCableAmarillo.png" /><br>
+ <p align="center"><img src="D:\Copia pen-drive 26-10-20\Proyecto\sticker_daniel.png" width="350"/></p> 
+<br>
 *Fondo Europeo de Desarrollo Regional - Una manera de hacer Europa*
 
 
