@@ -1,6 +1,6 @@
 # Daniel Fernandez
 
- <p align="center"><img src="https://danielfernandezj34.github.io/sticker_daniel.png" width="350"/>Sticker fucking boss</p> 
+ <p align="center"><img src="https://danielfernandezj34.github.io/sticker_daniel.png" width="350"/></p><p>Sticker fucking boss</p> 
 <br>
 
 
