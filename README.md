@@ -1,8 +1,8 @@
 # Daniel Fernandez
 
- <p align="center"><img src="https://danielfernandezj34.github.io/sticker_daniel.png" width="350"/></p> 
+ <p align="center"><img src="https://danielfernandezj34.github.io/sticker_daniel.png" width="350"/>Sticker fucking boss</p> 
 <br>
-*Fondo Europeo de Desarrollo Regional - Una manera de hacer Europa*
+
 
 
 
