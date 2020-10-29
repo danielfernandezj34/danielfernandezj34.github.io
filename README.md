@@ -10,4 +10,4 @@
 
 
 
-## Aqui podras encontrar un poquito de la vida de Daniel, no te lo puedes perder.
+### Aqui podras encontrar un poquito de la vida de Daniel, no te lo puedes perder.
