@@ -2,6 +2,7 @@
 
  <p align="center"><img href="D:\Copia pen-drive 26-10-20\Proyecto\sticker_daniel.png" width="350"/></p> 
 <br>
+![stack Overflow](http://lmsotfy.com/so.png)
 *Fondo Europeo de Desarrollo Regional - Una manera de hacer Europa*
 
 
