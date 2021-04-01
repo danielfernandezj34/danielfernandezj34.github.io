@@ -58,21 +58,32 @@
            <script async src="//jsfiddle.net/dfernandezj34/6r94mu21/45/embed/"></script>
         </div>
         <div class="row" style="margin-bottom: 5%">
-           <p class="h3">DOM Style</p><br>
+           <p class="h3">DOM Style</p>
            <p>Para cambiar el estilo de un elemento de HTML se usa la siguiente sintaxis:<br>
            document.getElementById(id).style.property = new style<br>
            Por ejemplo:<br></p>
            <img src="https://danielfernandezj34.github.io/DOM_Style.PNG" width="400" height="300"></img></p>
         </div>
         <div class="row" style="margin-bottom: 5%">
-           <p class="h3">DOM Elements</br></p>
+           <p class="h3">DOM Elements</p>
            <p>Si queremos manipular elementos HTML primero hay que encontrarlos. Para ello podemos hacerlo de varias formas:</p>
            <ul>
-              <li>Encontrar elementos HTML por ID</li>
-              <li>Encontrar elementos HTML por nombre de etiqueta</li>
-              <li>Encontrar elementos HTML por nombre de clase</li>
-              <li>Encontrar elementos HTML mediante selectores CSS</li>
-              <li>Encontrar elementos HTML por colecciones de objetos HTML</li>
+              <li>Encontrar elementos HTML por ID --> "var myElement = document.getElementById("intro");"</li>
+              <li>Encontrar elementos HTML por nombre de etiqueta --> "var x = document.getElementsByTagName("p");"</li>
+              <li>Encontrar elementos HTML por nombre de clase --> "var x = document.getElementsByClassName("intro");"</li>
+              <li>Encontrar elementos HTML mediante selectores CSS --> "var x = document.querySelectorAll("p.intro");"</li>
+              <li>Encontrar elementos HTML por colecciones de objetos HTML --> "document.getElementById("demo").innerHTML = text;"</li>
+           </ul>
+        </div>
+        <div class="row" style="margin-bottom: 5%">
+           <p class="h3">DOM Document</p>
+           <p>El objeto de documento HTML DOM es el propietario de todos los demás objetos de su página web.</p>
+           <ul>
+              <li>Encontrar elementos HTML por ID --> "var myElement = document.getElementById("intro");"</li>
+              <li>Encontrar elementos HTML por nombre de etiqueta --> "var x = document.getElementsByTagName("p");"</li>
+              <li>Encontrar elementos HTML por nombre de clase --> "var x = document.getElementsByClassName("intro");"</li>
+              <li>Encontrar elementos HTML mediante selectores CSS --> "var x = document.querySelectorAll("p.intro");"</li>
+              <li>Encontrar elementos HTML por colecciones de objetos HTML --> "document.getElementById("demo").innerHTML = text;"</li>
            </ul>
         </div>
     </div>
